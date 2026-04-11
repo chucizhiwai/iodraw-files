@@ -23,9 +23,9 @@
         <mxCell id="n3Ujxi44wWo94HtI6_3v-1" value="学生" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="n3Ujxi44wWo94HtI6_3v-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" target="n3Ujxi44wWo94HtI6_3v-4">
+        <mxCell id="n3Ujxi44wWo94HtI6_3v-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="n3Ujxi44wWo94HtI6_3v-4" target="n3Ujxi44wWo94HtI6_3v-4">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="340" y="215" as="sourcePoint" />
+            <mxPoint x="360" y="216" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="n3Ujxi44wWo94HtI6_3v-2" value="学院" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -88,10 +88,10 @@
         <mxCell id="n3Ujxi44wWo94HtI6_3v-31" value="主修" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="305" y="160" width="35" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="n3Ujxi44wWo94HtI6_3v-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="n3Ujxi44wWo94HtI6_3v-43">
+        <mxCell id="n3Ujxi44wWo94HtI6_3v-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="n3Ujxi44wWo94HtI6_3v-43" target="n3Ujxi44wWo94HtI6_3v-2">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="240" y="370" as="sourcePoint" />
-            <mxPoint x="325" y="230" as="targetPoint" />
+            <mxPoint x="325" y="307" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="n3Ujxi44wWo94HtI6_3v-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="n3Ujxi44wWo94HtI6_3v-1" target="n3Ujxi44wWo94HtI6_3v-40">
