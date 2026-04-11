@@ -28,9 +28,6 @@
             <mxPoint x="360" y="216" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="n3Ujxi44wWo94HtI6_3v-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="n3Ujxi44wWo94HtI6_3v-2" target="n3Ujxi44wWo94HtI6_3v-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="n3Ujxi44wWo94HtI6_3v-2" value="学院" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="370" width="120" height="60" as="geometry" />
         </mxCell>
@@ -49,6 +46,9 @@
           <mxGeometry x="430" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="n3Ujxi44wWo94HtI6_3v-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="n3Ujxi44wWo94HtI6_3v-4" target="n3Ujxi44wWo94HtI6_3v-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n3Ujxi44wWo94HtI6_3v-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="n3Ujxi44wWo94HtI6_3v-4" target="n3Ujxi44wWo94HtI6_3v-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="n3Ujxi44wWo94HtI6_3v-4" value="专业" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
