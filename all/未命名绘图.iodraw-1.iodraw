@@ -16,14 +16,20 @@
         <mxCell id="n3Ujxi44wWo94HtI6_3v-3" value="课程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="370" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="n3Ujxi44wWo94HtI6_3v-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="n3Ujxi44wWo94HtI6_3v-4" target="n3Ujxi44wWo94HtI6_3v-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="n3Ujxi44wWo94HtI6_3v-4" value="专业" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="n3Ujxi44wWo94HtI6_3v-5" value="姓名&lt;div&gt;性别&lt;/div&gt;&lt;div&gt;生日&lt;/div&gt;&lt;div&gt;民族&lt;/div&gt;&lt;div&gt;籍贯&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="60" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="n3Ujxi44wWo94HtI6_3v-9" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="n3Ujxi44wWo94HtI6_3v-9" value="名称" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="60" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="n3Ujxi44wWo94HtI6_3v-11" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="510" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
