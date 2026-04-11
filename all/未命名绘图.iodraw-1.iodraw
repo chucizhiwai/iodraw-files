@@ -31,7 +31,9 @@
         <mxCell id="n3Ujxi44wWo94HtI6_3v-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.2;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="n3Ujxi44wWo94HtI6_3v-55" target="n3Ujxi44wWo94HtI6_3v-55">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="223" y="225" />
               <mxPoint x="263" y="225" />
+              <mxPoint x="263" y="305" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -153,7 +155,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="n3Ujxi44wWo94HtI6_3v-55" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="300" width="50" height="50" as="geometry" />
+          <mxGeometry x="70" y="300" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
